@@ -123,7 +123,7 @@ h4{
         display: block;
     }
     .images img{
-        width: 400px;
+        width: 350px;
         border-bottom-left-radius: 0;
         border-top-right-radius: 8px;
     }
@@ -131,7 +131,8 @@ h4{
         margin-top: -34px;
         border-top-right-radius: 0;
         border-bottom-left-radius: 8px;
-        height: 260px;
+        height: 300px;
+        width: 350px;
     }
     h1{
         padding-top: 40px;
@@ -140,7 +141,7 @@ h4{
         position: relative;
         left: 0;
         top: -37px;
-        width: 403px;
+        width: 350px;
         justify-content: flex-start;
         border-top-left-radius: 0;
         border-top-right-radius: 0;
@@ -156,7 +157,7 @@ h4{
     }
     .btn{
         position: absolute;
-        top: 437px;
+        top: 475px;
         right: 50px;
         z-index: 2;
     }
